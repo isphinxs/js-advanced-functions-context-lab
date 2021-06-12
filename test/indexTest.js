@@ -1,4 +1,6 @@
-const helpers = require('./helpers')
+// const helpers = require('./helpers');
+
+// const employeeHelpers = require('../');
 
 describe("The payroll system", function () {
   describe("populates a record from an Array", function () {
